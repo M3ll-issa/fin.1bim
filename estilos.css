@@ -1,13 +1,13 @@
 body{   
     font-family: comics sans ms, cursive, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #b3b3b3;
     margin: 0;
     padding: 20px;
     
 }
 
 h1 {
-    color: #333;
+    color: #31e631;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@ li {
     margin-bottom: 5px;
 }
 .container {
-    background-color: #fff;
+    background-color: #7a7a7a;
     padding: 20px;
     border-radius: 5px;
     margin-top: 20px;
