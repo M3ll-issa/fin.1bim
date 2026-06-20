@@ -1,0 +1,53 @@
+body{   
+    font-family: comics sans ms, cursive, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+    
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}   
+h2 {
+    color: #555;
+    margin-top: 20px;
+}
+p {
+    color: #666;
+    line-height: 1.6;
+}
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+li {
+    margin-bottom: 5px;
+}
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.item {
+    background-color: #e0e0e0;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: left;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
